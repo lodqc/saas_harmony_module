@@ -44,7 +44,9 @@ export struct RiderItem {
             .fontColor($r("app.color.font1"))
             .fontWeight(FontWeight.Bold)
             .layoutWeight(1)
-          Text(getTypeStatus(this.searchType)).fontSize(14).fontColor(getTypeStatusColor(this.searchType))
+          Text(getTypeStatus(this.bean.userChannelStatus ?? 0))
+            .fontSize(14)
+            .fontColor(getTypeStatusColor(this.bean.userChannelStatus ?? 0))
         }.id("Row1")
 
         Row() {
@@ -196,27 +198,23 @@ function getTypeHeight(bean: GetChannelUser): Length {
   }
 }
 
-function getTypeStatus(searchType: number): string {
-  switch (searchType) {
+function getTypeStatus(channelStatus: number): string {
+  switch (channelStatus) {
     case 1:
-      return "已代付"
+      return "代付押金"
     case 2:
-      return "已到期"
-    case 3:
-      return "可回收"
+      return "已代付"
     default:
       return "未代付"
   }
 }
 
-function getTypeStatusColor(searchType: number) {
-  switch (searchType) {
+function getTypeStatusColor(channelStatus: number) {
+  switch (channelStatus) {
     case 1:
       return $r("app.color.font7")
     case 2:
-      return $r("app.color.font4")
-    case 3:
-      return $r("app.color.font1")
+      return $r("app.color.font7")
     default:
       return $r("app.color.font2")
   }

@@ -8,6 +8,7 @@ export class GetChannelUser{
   realNameStatus?: number
   channelMid?: string
   depositAmount?: number
+  userChannelStatus?: number
   depositFlag?: number
   depositOrderId?: number
   nickName?: string
