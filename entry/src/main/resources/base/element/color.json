@@ -1,0 +1,144 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "white",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "black",
+      "value": "#000000"
+    },
+    {
+      "name": "main",
+      "value": "#222222"
+    },
+    {
+      "name": "h1",
+      "value": "#222222"
+    },
+    {
+      "name": "font1",
+      "value": "#333333"
+    },
+    {
+      "name": "font2",
+      "value": "#FF6B00"
+    },
+    {
+      "name": "font3",
+      "value": "#9D9FB5"
+    },
+    {
+      "name": "font4",
+      "value": "#999999"
+    },
+    {
+      "name": "font5",
+      "value": "#888888"
+    },
+    {
+      "name": "font6",
+      "value": "#FA5050"
+    },
+    {
+      "name": "font7",
+      "value": "#25C44D"
+    },
+    {
+      "name": "font8",
+      "value": "#1F2126"
+    },
+    {
+      "name": "font9",
+      "value": "#666666"
+    },
+    {
+      "name": "font10",
+      "value": "#484848"
+    },
+    {
+      "name": "placeholder1",
+      "value": "#CCCCCC"
+    },
+    {
+      "name": "bg1",
+      "value": "#F6F6F6"
+    },
+    {
+      "name": "bg2",
+      "value": "#EDEDF2"
+    },
+    {
+      "name": "bg3",
+      "value": "#F7F7F7"
+    },
+    {
+      "name": "bg4",
+      "value": "#F0F0F0"
+    },
+    {
+      "name": "bg5",
+      "value": "#D9D9D9"
+    },
+    {
+      "name": "bg6",
+      "value": "#FB6800"
+    },
+    {
+      "name": "bg7",
+      "value": "#F6F7F8"
+    },
+    {
+      "name": "bg8",
+      "value": "#FFF5E8"
+    },
+    {
+      "name": "divider",
+      "value": "#EEEEEE"
+    },
+    {
+      "name": "common_gray_01",
+      "value": "#979797"
+    },
+    {
+      "name": "common_gray_02",
+      "value": "#848484"
+    },
+    {
+      "name": "common_gray_03",
+      "value": "#666666"
+    },
+    {
+      "name": "common_gray_bg",
+      "value": "#f3f4f5"
+    },
+    {
+      "name": "common_gray_border",
+      "value": "#e8e7ee"
+    },
+    {
+      "name": "common_main_color",
+      "value": "#FA6D1D"
+    },
+    {
+      "name": "common_green",
+      "value": "#41B883"
+    },
+    {
+      "name": "common_blue",
+      "value": "#3266EE"
+    },
+    {
+      "name": "common_blue_bg",
+      "value": "#EDF2FF"
+    },
+    {
+      "name": "home_gray",
+      "value": "#EDECF2"
+    }
+  ]
+}

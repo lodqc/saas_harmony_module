@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ic/qtsz-zh备份 2</title>
+    <g id="智慧云助理" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1009运营数据" transform="translate(-53.000000, -737.000000)">
+            <g id="tabbar/二级/运营数据" transform="translate(0.000000, 730.000000)">
+                <g id="ic/qtsz-zh备份-2" transform="translate(53.000000, 7.000000)">
+                    <rect id="矩形备份-3" fill-opacity="0" fill="#FFFFFF" x="0" y="0" width="24" height="24"></rect>
+                    <path d="M14.0686718,8.89497192 C14.2770976,8.39233186 14.392133,7.84117886 14.392133,7.26315789 C14.392133,4.9086808 12.4834522,3 10.1289751,3 C7.77449803,3 5.86581723,4.9086808 5.86581723,7.26315789 C5.86581723,9.61763499 7.77449803,11.5263158 10.1289751,11.5263158" id="路径" stroke="#9D9FB5" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M10.1289751,11.5263158 C6.20484664,11.5263158 3.02371197,16.2631579 3.49739618,20.0526316" id="路径" stroke="#9D9FB5" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <rect id="矩形" stroke="#9D9FB5" stroke-width="1.5" stroke-linejoin="round" x="13.2725158" y="11.5263158" width="7.75119617" height="9.47368421" rx="1"></rect>
+                    <line x1="15.8131857" y1="14.3684211" x2="19.1289751" y2="14.3684211" id="路径-13" stroke="#9D9FB5" stroke-width="1.5" stroke-linecap="round"></line>
+                    <line x1="15.8131857" y1="17.2105263" x2="18.4366674" y2="17.2105263" id="路径-13备份" stroke="#9D9FB5" stroke-width="1.5" stroke-linecap="round"></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,2 @@
+    include ':library'
+rootProject.name = 'saas_harmony_module'

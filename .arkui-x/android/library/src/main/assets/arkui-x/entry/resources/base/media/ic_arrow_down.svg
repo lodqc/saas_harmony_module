@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>1.通用组件/2.Icon图标/1.Outlined线性/Down</title>
+    <g id="智慧云助理" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1009运营数据" transform="translate(-90.000000, -258.000000)">
+            <g id="1.通用组件/2.Icon图标/1.Outlined线性/Down" transform="translate(90.000000, 258.000000)">
+                <rect id="_mockplus_fix_" x="0" y="0" width="16" height="16"></rect>
+                <rect id="_mockplus_fix_" x="0" y="0" width="16" height="16"></rect>
+                <g id="up" fill="#000000">
+                    <rect id="矩形" fill-rule="nonzero" opacity="0" x="0" y="0" width="16" height="16"></rect>
+                    <path d="M13.7501979,4 L12.5783229,4 C12.4986354,4 12.4236354,4.0390625 12.3767604,4.103125 L7.9376979,10.221875 L3.4986354,4.103125 C3.4517604,4.0390625 3.3767604,4 3.2970729,4 L2.1251979,4 C2.0236354,4 1.9642604,4.115625 2.0236354,4.1984375 L7.5330104,11.79375 C7.7330104,12.06875 8.1423854,12.06875 8.3408229,11.79375 L13.8501979,4.1984375 C13.9111354,4.115625 13.8517604,4 13.7501979,4 Z" id="路径" fill-opacity="0.65"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

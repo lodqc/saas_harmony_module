@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ic/qtsz-zh备份 2</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FF6B00" offset="0%"></stop>
+            <stop stop-color="#FF6B00" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="智慧云助理" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1002代付到期" transform="translate(-53.000000, -802.000000)">
+            <g id="tabbar/二级/骑手管理" transform="translate(0.000000, 795.000000)">
+                <g id="ic/qtsz-zh备份-2" transform="translate(53.000000, 7.000000)">
+                    <rect id="矩形备份-3" fill-opacity="0" fill="#FFFFFF" x="0" y="0" width="24" height="24"></rect>
+                    <circle id="椭圆形" fill="url(#linearGradient-1)" cx="10.1052632" cy="7.26315789" r="4.26315789"></circle>
+                    <path d="M14.0449598,8.89497192 C14.2533856,8.39233186 14.3684211,7.84117886 14.3684211,7.26315789 C14.3684211,4.9086808 12.4597402,3 10.1052632,3 C7.75078607,3 5.84210526,4.9086808 5.84210526,7.26315789 C5.84210526,9.61763499 7.75078607,11.5263158 10.1052632,11.5263158" id="路径" stroke="#333333" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M10.1052632,11.5263158 C6.18113467,11.5263158 3,16.2631579 3.47368421,20.0526316" id="路径" stroke="#333333" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <rect id="矩形" stroke="#333333" stroke-width="1.5" stroke-linejoin="round" x="13.2488038" y="11.5263158" width="7.75119617" height="9.47368421" rx="1"></rect>
+                    <line x1="15.7894737" y1="14.3684211" x2="19.1052632" y2="14.3684211" id="路径-13" stroke="#333333" stroke-width="1.5" stroke-linecap="round"></line>
+                    <line x1="15.7894737" y1="17.2105263" x2="18.4129555" y2="17.2105263" id="路径-13备份" stroke="#333333" stroke-width="1.5" stroke-linecap="round"></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

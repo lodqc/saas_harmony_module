@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ic/qtsz-zh</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FF6B00" offset="0%"></stop>
+            <stop stop-color="#FF6B00" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="智慧云助理" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1014其他设置" transform="translate(-298.000000, -737.000000)">
+            <g id="tabbar/二级/运营数据" transform="translate(0.000000, 730.000000)">
+                <g id="ic/qtsz-zh" transform="translate(298.000000, 7.000000)">
+                    <rect id="矩形备份-7" fill-opacity="0" fill="#FFFFFF" x="0" y="0" width="24" height="24"></rect>
+                    <g id="编组" transform="translate(2.500000, 3.000000)">
+                        <circle id="椭圆形" fill="url(#linearGradient-1)" cx="9.44444444" cy="9.44444444" r="4.72222222"></circle>
+                        <circle id="椭圆形备份-2" stroke="#333333" stroke-width="1.5" cx="9.44444444" cy="8.5" r="4.52777778"></circle>
+                        <path d="M13.5,0 L5.73264141,0 C4.97688474,-8.32143559e-17 4.28567291,0.426008162 3.94601195,1.10113673 L0.488920308,7.97263988 C0.184063328,8.57859017 0.207115849,9.29775972 0.550153827,9.88294215 L4.14272095,16.011439 C4.50168329,16.6237865 5.15831167,17 5.86811689,17 L12.6063907,17 C13.2848116,17 13.916978,16.6560845 14.285531,16.0865026 L18.2802699,9.91281513 C18.6583757,9.32846992 18.7055011,8.58957658 18.4046942,7.9619314 L16,2.94444444 L16,2.94444444" id="路径-15备份" stroke="#333333" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
